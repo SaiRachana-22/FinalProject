@@ -10,6 +10,8 @@ Eclipse, Java, JUnit, EclEmma plugin
 
 
 
+
+
 **How to OPEN the Java project using Eclipse:
 
 -> The Shopping Application is a Java Project created using Eclipse platform and the root folder or project is named as 'FinalProject'.
@@ -21,6 +23,9 @@ Eclipse, Java, JUnit, EclEmma plugin
 -> Then a window pops up asking to select root directory. Use the Browse option to choose the Java project root folder named 'FinalProject' and click on Finish.
 
 -> The Java project then loads into Eclipse and can be seen in the Package Explorer.
+
+
+
 
 
 
@@ -56,8 +61,11 @@ Eclipse, Java, JUnit, EclEmma plugin
    - CartBuilderTest.java
    - OrderTest.java
    - PaymentProcessorTest.java
-   - 
+     
 -> The 'log.txt' file is used to store the important events and transactions generated while the Java Project is running.
+
+
+
 
 
 
@@ -115,6 +123,9 @@ Eclipse, Java, JUnit, EclEmma plugin
 -> The shopping application is exited successfully.
 
 -> NOTE: Providing inputs other than the given user options (1/2/3/4/5) will lead to the console prompting a message saying that the provided choice is invalid, please try again by entering a valid choice.
+
+
+
 
 
  
