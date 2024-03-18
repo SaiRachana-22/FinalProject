@@ -130,5 +130,6 @@ Eclipse, Java, JUnit, EclEmma plugin
 
  
 **How to run the tests in Eclipse:**
+
 -> To run the tests, right click on the package name (depaul.edu) -> Coverage As -> JUnit Test. 
 
