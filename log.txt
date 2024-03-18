@@ -1,0 +1,111 @@
+[2024-03-16T21:24:36.185972400]  - Shopping application started.
+[2024-03-16T21:24:45.498505700]  - Login successful for: user1
+[2024-03-16T21:25:02.903182600]  - ERROR: Invalid choice!! Please try again by entering a valid choice (Enter the number only)
+[2024-03-16T21:25:02.904128700]  - Shopping application ended.
+[2024-03-16T21:30:44.317239900]  - Shopping application started.
+[2024-03-16T21:30:55.088134900]  - Login successful for: user1
+[2024-03-16T21:31:02.774227600]  - Shopping application ended.
+[2024-03-16T21:31:16.446033300]  - Shopping application started.
+[2024-03-16T21:31:23.323067600]  - Login successful for: user1
+[2024-03-16T21:31:55.109251300]  - Product: Smartphone added to the shopping cart.
+[2024-03-16T21:32:17.852275900]  - Checkout process initiated.
+[2024-03-16T21:32:52.185921]  - Payment Successful.
+[2024-03-16T21:32:52.188918600]  - Order placed successfully!
+[2024-03-16T21:32:52.188918600]  - Order details:
+[2024-03-16T21:32:52.189919700]  - Customer Name: user1
+[2024-03-16T21:32:52.189919700]  - Shipping Address: 833 W Buena Ave, Chicago, IL
+[2024-03-16T21:32:52.190919]  - Total Price: $599.99
+[2024-03-16T21:33:30.944674200]  - Shopping application ended.
+[2024-03-16T21:45:18.572910700]  - Shopping application started.
+[2024-03-16T23:01:11.061875900]  - Shopping application started.
+[2024-03-16T23:01:20.148807600]  - Login successful for: user1
+[2024-03-16T23:01:33.025173]  - Product: Jeans added to the shopping cart.
+[2024-03-16T23:01:40.831489800]  - Checkout process initiated.
+[2024-03-16T23:09:26.897517800]  - Shopping application started.
+[2024-03-16T23:09:44.390202300]  - Login successful for: user2
+[2024-03-16T23:10:03.706609900]  - Product: T-shirt added to the shopping cart.
+[2024-03-16T23:10:09.972729400]  - Checkout process initiated.
+[2024-03-16T23:10:45.640198300]  - Payment Successful.
+[2024-03-16T23:10:45.643197400]  - Order placed successfully!
+[2024-03-16T23:10:45.643197400]  - Order details:
+[2024-03-16T23:10:45.644196800]  - Customer Name: user2
+[2024-03-16T23:10:45.644196800]  - Shipping Address: 890 S Prairie Ave
+[2024-03-16T23:10:45.645197900]  - Total Price: $29.99
+[2024-03-16T23:11:28.110015800]  - Shopping application started.
+[2024-03-16T23:11:36.381536300]  - Login successful for: user1
+[2024-03-16T23:11:44.121433400]  - Product: Jeans added to the shopping cart.
+[2024-03-16T23:11:47.334171200]  - Checkout process initiated.
+[2024-03-16T23:12:39.191933700]  - Payment Successful.
+[2024-03-16T23:12:39.193934100]  - Order placed successfully!
+[2024-03-16T23:12:39.194934100]  - Order details:
+[2024-03-16T23:12:39.194934100]  - Customer Name: user1
+[2024-03-16T23:12:39.195933600]  - Shipping Address: 900 N Lincoln Ave
+[2024-03-16T23:12:39.196933500]  - Total Price: $39.99
+[2024-03-16T23:15:43.864904900]  - Shopping application started.
+[2024-03-16T23:16:06.093324700]  - ERROR: Login failed for: user2
+[2024-03-16T23:16:16.644823700]  - Login successful for: user2
+[2024-03-16T23:16:27.569940200]  - Product: Laptop added to the shopping cart.
+[2024-03-16T23:16:32.904969700]  - Checkout process initiated.
+[2024-03-16T23:17:27.474394100]  - Payment Successful.
+[2024-03-16T23:17:27.476324700]  - Order placed successfully!
+[2024-03-16T23:17:27.477358]  - Order details:
+[2024-03-16T23:17:27.477358]  - Customer Name: user2
+[2024-03-16T23:17:27.478302]  - Shipping Address: 555 E Elton Ave
+[2024-03-16T23:17:27.478302]  - Total Price: $999.99
+[2024-03-16T23:17:47.597535400]  - Shopping application ended.
+[2024-03-16T23:18:26.718746100]  - Shopping application started.
+[2024-03-16T23:18:33.075938100]  - Login successful for: user1
+[2024-03-16T23:18:41.573985900]  - Product: Jeans added to the shopping cart.
+[2024-03-16T23:18:45.189065300]  - Checkout process initiated.
+[2024-03-16T23:19:33.650789600]  - Payment Successful.
+[2024-03-16T23:19:33.652790500]  - Order placed successfully!
+[2024-03-16T23:19:33.653787900]  - Order details:
+[2024-03-16T23:19:33.653787900]  - Customer Name: user1
+[2024-03-16T23:19:33.654789300]  - Shipping Address: 777 E Clarendon Ave
+[2024-03-16T23:19:33.656789900]  - Total Price: $39.99
+[2024-03-16T23:19:51.915705900]  - Product: Smartphone added to the shopping cart.
+[2024-03-16T23:19:55.974405800]  - Checkout process initiated.
+[2024-03-16T23:20:20.117763100]  - ERROR: Payment processing failed.
+[2024-03-16T23:20:59.741561400]  - Shopping application ended.
+[2024-03-16T23:22:20.947189100]  - Shopping application started.
+[2024-03-16T23:22:27.867013800]  - ERROR: Login failed for: user1
+[2024-03-16T23:22:35.732827]  - Login successful for: user1
+[2024-03-17T21:04:44.024997300]  - Shopping application started.
+[2024-03-17T21:04:53.188190100]  - Login successful for: user1
+[2024-03-17T21:05:05.408221]  - Product: T-shirt added to the shopping cart.
+[2024-03-17T21:05:27.370699700]  - Product: Jeans added to the shopping cart.
+[2024-03-17T21:05:43.527009500]  - Checkout process initiated.
+[2024-03-17T21:06:55.434545500]  - Payment Successful.
+[2024-03-17T21:06:55.450548]  - Order placed successfully!
+[2024-03-17T21:06:55.451547]  - Order details:
+[2024-03-17T21:06:55.451547]  - Customer Name: user1
+[2024-03-17T21:06:55.452546300]  - Shipping Address: 555 E Evanston Ave, Chicago, IL
+[2024-03-17T21:06:55.453545900]  - Total Price: $69.98
+[2024-03-17T21:07:14.989305700]  - Shopping application ended.
+[2024-03-17T22:39:27.357370900]  - Shopping application started.
+[2024-03-17T22:39:34.761579]  - Login successful for: user1
+[2024-03-17T22:39:47.413943100]  - Product: Laptop added to the shopping cart.
+[2024-03-17T22:39:54.704564600]  - Checkout process initiated.
+[2024-03-17T22:41:00.977864900]  - Payment Successful.
+[2024-03-17T22:41:00.980865400]  - Order placed successfully!
+[2024-03-17T22:41:00.980865400]  - Order details:
+[2024-03-17T22:41:00.981866800]  - Customer Name: user1
+[2024-03-17T22:41:00.981866800]  - Shipping Address: 567 W Parkson Ave, Chicago, IL
+[2024-03-17T22:41:00.982866200]  - Total Price: $999.99
+[2024-03-17T22:41:19.342531300]  - Shopping application ended.
+[2024-03-17T23:31:17.319937900]  - Shopping application started.
+[2024-03-17T23:35:49.556723900]  - Login successful for: user1
+[2024-03-17T23:53:23.144642100]  - Product: Jeans added to the shopping cart.
+[2024-03-17T23:55:08.898118800]  - ERROR: Product not found in the catalog.
+[2024-03-18T00:04:38.867525200]  - Checkout process initiated.
+[2024-03-18T00:09:00.524680500]  - ERROR: Payment processing failed.
+[2024-03-18T00:11:41.075844100]  - Checkout process initiated.
+[2024-03-18T00:11:47.143894500]  - ERROR: Payment processing failed.
+[2024-03-18T00:11:51.632341700]  - Checkout process initiated.
+[2024-03-18T00:14:02.725205600]  - Payment Successful.
+[2024-03-18T00:14:02.744206300]  - Order placed successfully!
+[2024-03-18T00:14:02.744206300]  - Order details:
+[2024-03-18T00:14:02.745205800]  - Customer Name: user1
+[2024-03-18T00:14:02.745205800]  - Shipping Address: hdsdj
+[2024-03-18T00:14:02.746205400]  - Total Price: $39.99
+[2024-03-18T00:18:18.441395400]  - ERROR: Invalid choice!! Please try again by entering a valid choice (Enter the number only)
