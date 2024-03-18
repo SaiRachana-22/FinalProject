@@ -39,7 +39,7 @@ Final Project for the course Object-Oriented Software Development
    - Order.java
    - PaymentProcessor.java
    - MockPaymentGateway.java
-   - Logger.java
+   - Logger.java 
 -> The 'src' folder has the following test files:
    - UserAuthenticationTest.java
    - ElectronicProductTest.java
