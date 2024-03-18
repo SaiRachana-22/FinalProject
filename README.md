@@ -5,14 +5,14 @@ Final Project for the course Object-Oriented Software Development
 
 
 
-**Requirements:
+**Requirements:**
 Eclipse, Java, JUnit, EclEmma plugin
 
 
 
 
 
-**How to OPEN the Java project using Eclipse:
+**How to OPEN the Java project using Eclipse:**
 
 -> The Shopping Application is a Java Project created using Eclipse platform and the root folder or project is named as 'FinalProject'.
 
@@ -29,7 +29,7 @@ Eclipse, Java, JUnit, EclEmma plugin
 
 
 
-**Contents of the Java project:
+**Contents of the Java project:**
 
 -> The root folder 'FinalProject' has '.settings' folder, 'bin' folder, 'src' folder, '.classpath' file, '.project' file and a 'log.txt' file.
 
@@ -69,7 +69,7 @@ Eclipse, Java, JUnit, EclEmma plugin
 
 
 
-**How to RUN the Java project/application using Eclipse:
+**How to RUN the Java project/application using Eclipse:**
 
 -> To run the java project, click on MainClass.java file and then click on the Run button.
 
@@ -129,6 +129,6 @@ Eclipse, Java, JUnit, EclEmma plugin
 
 
  
-**How to run the tests in Eclipse:
+**How to run the tests in Eclipse:**
 -> To run the tests, right click on the package name (depaul.edu) -> Coverage As -> JUnit Test. 
 
