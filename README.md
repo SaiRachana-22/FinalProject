@@ -6,10 +6,7 @@ Final Project for the course Object-Oriented Software Development
 
 
 **Requirements:
--> Eclipse
--> Java
--> JUnit
--> EclEmma plugin
+Eclipse, Java, JUnit, EclEmma plugin
 
 
 
@@ -25,6 +22,7 @@ Final Project for the course Object-Oriented Software Development
 **Contents of the Java project:
 -> The root folder 'FinalProject' has '.settings' folder, 'bin' folder, 'src' folder, '.classpath' file, '.project' file and a 'log.txt' file.
 -> But in Eclipse, only the 'src' folder will be visible. The rest of the folders and the files are only visible when opened using File Explorer.
+
 -> The 'src' folder has the following .java files:
    - MainClass.java
    - ShoppingApplication.java
@@ -39,7 +37,8 @@ Final Project for the course Object-Oriented Software Development
    - Order.java
    - PaymentProcessor.java
    - MockPaymentGateway.java
-   - Logger.java 
+   - Logger.java
+     
 -> The 'src' folder has the following test files:
    - UserAuthenticationTest.java
    - ElectronicProductTest.java
@@ -67,6 +66,7 @@ Final Project for the course Object-Oriented Software Development
    - 3. View shopping cart
    - 4. Checkout the shopping cart
    - 5. Exit the shopping application
+        
 -> If the user wants to browse through the available products, provide the input as 1 and click on enter button on the keyboard.
 -> Then all the available products in the shopping application are displayed along with their prices and again all the user options are provided to choose from.
 -> If the user wants to add a product to the shopping cart, provide the input as 2 and click enter.
